@@ -11,7 +11,9 @@ It contains a **time series dataset of turbidity (NTU)** measured between **2017
 
 - **Plots & Analysis**: At least one clear figure with commentary (subplots welcome).  
 - **Insights**: A few bullet points summarising the story you see in the data.  
-- **Recommendations**: Notes on missing/insensible data and suggestions for useful additional variables.  
+- **Limitations & Recommendations**:
+	- Identify gaps in the data (missing or irregular values).
+	- Suggest what additional variables would help to better explain the relationship between turbidity and seagrass health.  
 
 Please return your work **one day before the 2nd round of the interview** as:  
 
