@@ -18,7 +18,7 @@ It contains a **time series dataset of turbidity (NTU)** measured between **2017
 Please email your work **one day before the 2nd round of the interview** as:  
 
 - **Script** - A Jupyter notebook (`.ipynb`), R Markdown (`.Rmd`), or MATLAB script (`.m`)  
-- **Short Summary** - a 1-page summary (Word doc, PDF, or Markdown file) including your findings and plot(s).  
+- **Short Summary** - a 1-page summary (Word doc, PDF, HTML, or Markdown file) including your findings and plot(s).  
 
 ---
 
